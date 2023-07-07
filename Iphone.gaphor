@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gaphor xmlns="http://gaphor.sourceforge.net/model" version="3.0" gaphor-version="2.19.1">
+<StyleSheet id="58d6989a-66f8-11ec-b4c8-0456e5e540ed">
+<naturalLanguage>
+<val>pt_BR</val>
+</naturalLanguage>
+<styleSheet>
+<val>diagram {
+ /* line-style: sloppy 0.3; */
+}
+
+controlflow {
+  dash-style: 0;
+}
+</val>
+</styleSheet>
+</StyleSheet>
+<Package id="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed">
+<name>
+<val>Iphone</val>
+</name>
+<ownedDiagram>
+<reflist>
+<ref refid="194ddd41-1d0f-11ee-9d19-45e232df76d8"/>
+</reflist>
+</ownedDiagram>
+<ownedType>
+<reflist>
+<ref refid="2d55682c-1d0f-11ee-b8f6-45e232df76d8"/>
+<ref refid="2eb31f84-1d0f-11ee-bce0-45e232df76d8"/>
+<ref refid="31e06989-1d0f-11ee-9b06-45e232df76d8"/>
+<ref refid="9c54c249-1d11-11ee-9b67-45e232df76d8"/>
+</reflist>
+</ownedType>
+</Package>
+<Diagram id="194ddd41-1d0f-11ee-9d19-45e232df76d8">
+<diagramType>
+<val>cls</val>
+</diagramType>
+<element>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</element>
+<name>
+<val>Iphone</val>
+</name>
+<ownedPresentation>
+<reflist>
+<ref refid="9c554177-1d11-11ee-9ffa-45e232df76d8"/>
+<ref refid="31e106fc-1d0f-11ee-acf0-45e232df76d8"/>
+<ref refid="2eb3a0d7-1d0f-11ee-bef5-45e232df76d8"/>
+<ref refid="2d561d09-1d0f-11ee-9dff-45e232df76d8"/>
+<ref refid="db2b3c61-1d11-11ee-8ab0-45e232df76d8"/>
+<ref refid="d0f01c4b-1d11-11ee-a3cd-45e232df76d8"/>
+<ref refid="cc1cf5bd-1d11-11ee-835c-45e232df76d8"/>
+<ref refid="c4349afe-1d11-11ee-829d-45e232df76d8"/>
+<ref refid="be5e3e20-1d11-11ee-8490-45e232df76d8"/>
+</reflist>
+</ownedPresentation>
+</Diagram>
+<Line id="db2b3c61-1d11-11ee-8ab0-45e232df76d8">
+<diagram>
+<ref refid="194ddd41-1d0f-11ee-9d19-45e232df76d8"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 703.7100508572291, 163.51514953182203)</val>
+</matrix>
+<points>
+<val>[(0.0, 0.0), (-89.86902913592871, -132.4261255175707)]</val>
+</points>
+</Line>
+<Line id="d0f01c4b-1d11-11ee-a3cd-45e232df76d8">
+<diagram>
+<ref refid="194ddd41-1d0f-11ee-9d19-45e232df76d8"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 815.8404857315564, 164.3396250728344)</val>
+</matrix>
+<points>
+<val>[(0.0, 0.0), (-112.32799205229674, 0.0)]</val>
+</points>
+</Line>
+<Line id="cc1cf5bd-1d11-11ee-835c-45e232df76d8">
+<diagram>
+<ref refid="194ddd41-1d0f-11ee-9d19-45e232df76d8"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 599.8247488137354, 309.4495376376807)</val>
+</matrix>
+<points>
+<val>[(0.0, 0.0), (0.0, -278.36051362342937)]</val>
+</points>
+</Line>
+<Line id="c4349afe-1d11-11ee-829d-45e232df76d8">
+<diagram>
+<ref refid="194ddd41-1d0f-11ee-9d19-45e232df76d8"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 529.7432584690066, 166.8130831475973)</val>
+</matrix>
+<points>
+<val>[(0.0, 0.0), (63.485560209726486, -135.72405913334597)]</val>
+</points>
+</Line>
+<Line id="be5e3e20-1d11-11ee-8490-45e232df76d8">
+<diagram>
+<ref refid="194ddd41-1d0f-11ee-9d19-45e232df76d8"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 419.2617746767039, 167.6375901403355)</val>
+</matrix>
+<points>
+<val>[(0.0, 0.0), (110.4814837923027, -0.8245069927382076)]</val>
+</points>
+</Line>
+<ClassItem id="9c554177-1d11-11ee-9ffa-45e232df76d8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 554.0124936792597, -25.910975985748696)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>100.0</val>
+</width>
+<height>
+<val>57.0</val>
+</height>
+<diagram>
+<ref refid="194ddd41-1d0f-11ee-9d19-45e232df76d8"/>
+</diagram>
+<subject>
+<ref refid="9c54c249-1d11-11ee-9b67-45e232df76d8"/>
+</subject>
+</ClassItem>
+<Class id="9c54c249-1d11-11ee-9b67-45e232df76d8">
+<name>
+<val>Iphone</val>
+</name>
+<package>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="9c554177-1d11-11ee-9ffa-45e232df76d8"/>
+</reflist>
+</presentation>
+</Class>
+<ClassItem id="31e106fc-1d0f-11ee-acf0-45e232df76d8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 229.27402653496657, 118.96452742917394)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>191.0</val>
+</width>
+<height>
+<val>108.0</val>
+</height>
+<diagram>
+<ref refid="194ddd41-1d0f-11ee-9d19-45e232df76d8"/>
+</diagram>
+<subject>
+<ref refid="31e06989-1d0f-11ee-9b06-45e232df76d8"/>
+</subject>
+</ClassItem>
+<Class id="31e06989-1d0f-11ee-9b06-45e232df76d8">
+<name>
+<val>ReprodutorMusical</val>
+</name>
+<ownedOperation>
+<reflist>
+<ref refid="b761012d-1d0f-11ee-b03d-45e232df76d8"/>
+<ref refid="be809688-1d0f-11ee-9941-45e232df76d8"/>
+<ref refid="cfb4f18d-1d0f-11ee-b34b-45e232df76d8"/>
+</reflist>
+</ownedOperation>
+<package>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="31e106fc-1d0f-11ee-acf0-45e232df76d8"/>
+</reflist>
+</presentation>
+</Class>
+<Operation id="cfb4f18d-1d0f-11ee-b34b-45e232df76d8">
+<class_>
+<ref refid="31e06989-1d0f-11ee-9b06-45e232df76d8"/>
+</class_>
+<name>
+<val>+ selecionarMusica() void</val>
+</name>
+</Operation>
+<Operation id="be809688-1d0f-11ee-9941-45e232df76d8">
+<class_>
+<ref refid="31e06989-1d0f-11ee-9b06-45e232df76d8"/>
+</class_>
+<name>
+<val>+ pausar() void</val>
+</name>
+</Operation>
+<Operation id="b761012d-1d0f-11ee-b03d-45e232df76d8">
+<class_>
+<ref refid="31e06989-1d0f-11ee-9b06-45e232df76d8"/>
+</class_>
+<name>
+<val>+ tocar() void</val>
+</name>
+</Operation>
+<ClassItem id="2eb3a0d7-1d0f-11ee-bef5-45e232df76d8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 819.7568860841313, 118.96452742917397)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>188.0</val>
+</width>
+<height>
+<val>108.0</val>
+</height>
+<diagram>
+<ref refid="194ddd41-1d0f-11ee-9d19-45e232df76d8"/>
+</diagram>
+<subject>
+<ref refid="2eb31f84-1d0f-11ee-bce0-45e232df76d8"/>
+</subject>
+</ClassItem>
+<Class id="2eb31f84-1d0f-11ee-bce0-45e232df76d8">
+<name>
+<val>AparelhoTelefonico</val>
+</name>
+<ownedOperation>
+<reflist>
+<ref refid="f3b4299a-1d0f-11ee-a085-45e232df76d8"/>
+<ref refid="f6f0ffd4-1d0f-11ee-b11f-45e232df76d8"/>
+<ref refid="fd2dbd39-1d0f-11ee-b5dc-45e232df76d8"/>
+</reflist>
+</ownedOperation>
+<package>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="2eb3a0d7-1d0f-11ee-bef5-45e232df76d8"/>
+</reflist>
+</presentation>
+</Class>
+<Operation id="fd2dbd39-1d0f-11ee-b5dc-45e232df76d8">
+<class_>
+<ref refid="2eb31f84-1d0f-11ee-bce0-45e232df76d8"/>
+</class_>
+<name>
+<val>+ iniciarCorreioVoz() void</val>
+</name>
+</Operation>
+<Operation id="f6f0ffd4-1d0f-11ee-b11f-45e232df76d8">
+<class_>
+<ref refid="2eb31f84-1d0f-11ee-bce0-45e232df76d8"/>
+</class_>
+<name>
+<val>+ atender() void</val>
+</name>
+</Operation>
+<Operation id="f3b4299a-1d0f-11ee-a085-45e232df76d8">
+<class_>
+<ref refid="2eb31f84-1d0f-11ee-bce0-45e232df76d8"/>
+</class_>
+<name>
+<val>+ ligar() void</val>
+</name>
+</Operation>
+<ClassItem id="2d561d09-1d0f-11ee-9dff-45e232df76d8">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 504.51249367925976, 309.47648737616896)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>199.0</val>
+</width>
+<height>
+<val>108.0</val>
+</height>
+<diagram>
+<ref refid="194ddd41-1d0f-11ee-9d19-45e232df76d8"/>
+</diagram>
+<subject>
+<ref refid="2d55682c-1d0f-11ee-b8f6-45e232df76d8"/>
+</subject>
+</ClassItem>
+<Class id="2d55682c-1d0f-11ee-b8f6-45e232df76d8">
+<name>
+<val>NavegadorInternet</val>
+</name>
+<ownedOperation>
+<reflist>
+<ref refid="16cca13c-1d10-11ee-889d-45e232df76d8"/>
+<ref refid="1e2ab0bb-1d10-11ee-bfc9-45e232df76d8"/>
+<ref refid="28bcfcf8-1d10-11ee-b751-45e232df76d8"/>
+</reflist>
+</ownedOperation>
+<package>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="2d561d09-1d0f-11ee-9dff-45e232df76d8"/>
+</reflist>
+</presentation>
+</Class>
+<Operation id="28bcfcf8-1d10-11ee-b751-45e232df76d8">
+<class_>
+<ref refid="2d55682c-1d0f-11ee-b8f6-45e232df76d8"/>
+</class_>
+<name>
+<val>+ atualizarPagina() void</val>
+</name>
+</Operation>
+<Operation id="1e2ab0bb-1d10-11ee-bfc9-45e232df76d8">
+<class_>
+<ref refid="2d55682c-1d0f-11ee-b8f6-45e232df76d8"/>
+</class_>
+<isAbstract>
+<val>0</val>
+</isAbstract>
+<name>
+<val>+ adicionarNovaAba() void</val>
+</name>
+</Operation>
+<Operation id="16cca13c-1d10-11ee-889d-45e232df76d8">
+<class_>
+<ref refid="2d55682c-1d0f-11ee-b8f6-45e232df76d8"/>
+</class_>
+<name>
+<val>+ exibirPagina() void</val>
+</name>
+</Operation>
+</gaphor>
